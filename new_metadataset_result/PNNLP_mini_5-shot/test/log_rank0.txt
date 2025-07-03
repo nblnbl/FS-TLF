@@ -1,0 +1,140 @@
+[2025-05-28 11:49:21 PNNLP_mini_5-shot] (main.py 360): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-28 11:49:21 PNNLP_mini_5-shot] (main.py 79): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-28 11:49:22 PNNLP_mini_5-shot] (main.py 95): INFO Start testing
+[2025-05-28 11:49:24 PNNLP_mini_5-shot] (main.py 320): INFO Test: [1/100]	Time 2.70 (2.70)	Loss 1.07 (1.07)	knn_Acc 85.33 (85.33)	proto_Acc 90.67 (90.67)	Acc@1 90.67 (90.67)	Acc@2 85.33 (85.33)	Acc@3 88.00 (88.00)	Acc@4 89.33 (89.33)	Acc@5 88.00 (88.00)	label_acc1_meter 0.00 (0.00)	
+[2025-05-28 11:49:34 PNNLP_mini_5-shot] (main.py 320): INFO Test: [11/100]	Time 4.04 (1.14)	Loss 1.11 (1.13)	knn_Acc 80.00 (78.79)	proto_Acc 86.67 (85.70)	Acc@1 86.67 (85.70)	Acc@2 90.67 (88.36)	Acc@3 90.67 (88.97)	Acc@4 89.33 (88.85)	Acc@5 89.33 (89.33)	label_acc1_meter 0.00 (0.00)	
+[2025-05-28 11:50:35 PNNLP_mini_5-shot] (main.py 320): INFO Test: [21/100]	Time 6.75 (3.49)	Loss 0.88 (1.17)	knn_Acc 85.33 (78.48)	proto_Acc 94.67 (85.33)	Acc@1 94.67 (85.33)	Acc@2 96.00 (87.62)	Acc@3 96.00 (88.51)	Acc@4 96.00 (88.44)	Acc@5 96.00 (89.27)	label_acc1_meter 0.00 (0.00)	
+[2025-05-28 11:51:30 PNNLP_mini_5-shot] (main.py 320): INFO Test: [31/100]	Time 5.45 (4.15)	Loss 1.37 (1.20)	knn_Acc 82.67 (77.38)	proto_Acc 86.67 (85.63)	Acc@1 86.67 (85.63)	Acc@2 92.00 (86.92)	Acc@3 93.33 (88.22)	Acc@4 93.33 (88.13)	Acc@5 93.33 (89.16)	label_acc1_meter 0.00 (0.00)	
+[2025-05-28 11:52:23 PNNLP_mini_5-shot] (main.py 320): INFO Test: [41/100]	Time 5.21 (4.43)	Loss 1.39 (1.21)	knn_Acc 76.00 (77.11)	proto_Acc 82.67 (85.50)	Acc@1 82.67 (85.50)	Acc@2 82.67 (86.70)	Acc@3 86.67 (87.80)	Acc@4 86.67 (87.71)	Acc@5 89.33 (88.72)	label_acc1_meter 0.00 (0.00)	
+[2025-05-28 11:53:18 PNNLP_mini_5-shot] (main.py 320): INFO Test: [51/100]	Time 5.77 (4.63)	Loss 0.94 (1.19)	knn_Acc 88.00 (78.22)	proto_Acc 86.67 (86.38)	Acc@1 86.67 (86.38)	Acc@2 90.67 (87.03)	Acc@3 89.33 (87.95)	Acc@4 90.67 (87.87)	Acc@5 92.00 (88.94)	label_acc1_meter 0.00 (0.00)	
+[2025-05-28 11:53:46 PNNLP_mini_5-shot] (main.py 320): INFO Test: [61/100]	Time 0.54 (4.33)	Loss 1.32 (1.20)	knn_Acc 70.67 (77.99)	proto_Acc 81.33 (85.90)	Acc@1 81.33 (85.90)	Acc@2 73.33 (86.32)	Acc@3 76.00 (87.23)	Acc@4 76.00 (87.15)	Acc@5 78.67 (88.26)	label_acc1_meter 0.00 (0.00)	
+[2025-05-28 11:54:28 PNNLP_mini_5-shot] (main.py 320): INFO Test: [71/100]	Time 8.16 (4.31)	Loss 1.35 (1.20)	knn_Acc 76.00 (78.05)	proto_Acc 81.33 (85.84)	Acc@1 81.33 (85.84)	Acc@2 69.33 (86.22)	Acc@3 73.33 (87.08)	Acc@4 73.33 (87.00)	Acc@5 76.00 (88.15)	label_acc1_meter 0.00 (0.00)	
+[2025-05-28 11:55:51 PNNLP_mini_5-shot] (main.py 320): INFO Test: [81/100]	Time 8.40 (4.80)	Loss 1.04 (1.20)	knn_Acc 92.00 (77.83)	proto_Acc 98.67 (85.78)	Acc@1 98.67 (85.78)	Acc@2 98.67 (86.14)	Acc@3 98.67 (86.95)	Acc@4 98.67 (86.85)	Acc@5 98.67 (88.00)	label_acc1_meter 0.00 (0.00)	
+[2025-05-28 11:57:01 PNNLP_mini_5-shot] (main.py 320): INFO Test: [91/100]	Time 4.39 (5.05)	Loss 1.23 (1.20)	knn_Acc 76.00 (77.64)	proto_Acc 80.00 (85.54)	Acc@1 80.00 (85.54)	Acc@2 73.33 (85.95)	Acc@3 80.00 (86.80)	Acc@4 80.00 (86.73)	Acc@5 78.67 (87.84)	label_acc1_meter 0.00 (0.00)	
+[2025-05-28 11:57:33 PNNLP_mini_5-shot] (main.py 100): INFO Test Accuracy of miniImageNet: knn_acc:77.76%,proto_acc:85.41%,acc1:85.41%+-1.21,acc3:86.56%+-1.21,acc5:87.59%+-1.21
+[2025-05-28 11:57:33 PNNLP_mini_5-shot] (main.py 102): INFO stastic : 0.00%,0.00,0.00%,0.00,0.00%,0.00,7500.00
+[2025-05-28 11:57:33 PNNLP_mini_5-shot] (main.py 104): INFO stastic : 0.00,0.00,0.00
+[2025-05-28 11:57:33 PNNLP_mini_5-shot] (main.py 106): INFO stastic_balance : 0.00,0.00,0.00
+[2025-05-29 12:05:43 PNNLP_mini_5-shot] (main.py 360): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:05:43 PNNLP_mini_5-shot] (main.py 79): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:05:45 PNNLP_mini_5-shot] (main.py 95): INFO Start testing
+[2025-05-29 12:05:48 PNNLP_mini_5-shot] (main.py 320): INFO Test: [1/100]	Time 3.34 (3.34)	Loss 1.07 (1.07)	knn_Acc 85.33 (85.33)	proto_Acc 90.67 (90.67)	Acc@1 90.67 (90.67)	Acc@2 85.33 (85.33)	Acc@3 88.00 (88.00)	Acc@4 89.33 (89.33)	Acc@5 88.00 (88.00)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 12:06:25 PNNLP_mini_5-shot] (main.py 360): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:06:25 PNNLP_mini_5-shot] (main.py 79): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:06:26 PNNLP_mini_5-shot] (main.py 95): INFO Start testing
+[2025-05-29 12:06:29 PNNLP_mini_5-shot] (main.py 320): INFO Test: [1/100]	Time 2.50 (2.50)	Loss 1.07 (1.07)	knn_Acc 85.33 (85.33)	proto_Acc 90.67 (90.67)	Acc@1 90.67 (90.67)	Acc@2 85.33 (85.33)	Acc@3 88.00 (88.00)	Acc@4 89.33 (89.33)	Acc@5 88.00 (88.00)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 12:10:41 PNNLP_mini_5-shot] (main.py 360): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:10:41 PNNLP_mini_5-shot] (main.py 79): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:10:41 PNNLP_mini_5-shot] (main.py 95): INFO Start testing
+[2025-05-29 12:10:44 PNNLP_mini_5-shot] (main.py 320): INFO Test: [1/100]	Time 2.56 (2.56)	Loss 1.07 (1.07)	knn_Acc 85.33 (85.33)	proto_Acc 90.67 (90.67)	Acc@1 90.67 (90.67)	Acc@2 85.33 (85.33)	Acc@3 88.00 (88.00)	Acc@4 89.33 (89.33)	Acc@5 88.00 (88.00)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 12:11:37 PNNLP_mini_5-shot] (main.py 360): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:11:37 PNNLP_mini_5-shot] (main.py 79): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:11:38 PNNLP_mini_5-shot] (main.py 95): INFO Start testing
+[2025-05-29 12:11:40 PNNLP_mini_5-shot] (main.py 320): INFO Test: [1/100]	Time 2.56 (2.56)	Loss 1.07 (1.07)	knn_Acc 85.33 (85.33)	proto_Acc 90.67 (90.67)	Acc@1 90.67 (90.67)	Acc@2 85.33 (85.33)	Acc@3 88.00 (88.00)	Acc@4 89.33 (89.33)	Acc@5 88.00 (88.00)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 12:11:59 PNNLP_mini_5-shot] (main.py 320): INFO Test: [11/100]	Time 6.53 (1.89)	Loss 1.11 (1.13)	knn_Acc 80.00 (78.79)	proto_Acc 86.67 (85.70)	Acc@1 86.67 (85.70)	Acc@2 90.67 (88.36)	Acc@3 90.67 (88.97)	Acc@4 89.33 (88.85)	Acc@5 89.33 (89.33)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 12:17:43 PNNLP_mini_5-shot] (main.py 360): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:17:43 PNNLP_mini_5-shot] (main.py 79): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:17:43 PNNLP_mini_5-shot] (main.py 95): INFO Start testing
+[2025-05-29 12:18:02 PNNLP_mini_5-shot] (main.py 360): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:18:02 PNNLP_mini_5-shot] (main.py 79): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:18:03 PNNLP_mini_5-shot] (main.py 95): INFO Start testing
+[2025-05-29 12:18:27 PNNLP_mini_5-shot] (main.py 360): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:18:27 PNNLP_mini_5-shot] (main.py 79): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:18:28 PNNLP_mini_5-shot] (main.py 95): INFO Start testing
+[2025-05-29 12:26:43 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:26:43 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:27:44 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:27:44 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:28:22 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:28:22 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:28:47 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:28:47 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:29:04 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:29:04 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:29:04 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:31:00 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:31:00 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:31:01 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:31:42 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:31:42 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:31:43 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:34:29 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:34:29 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:34:29 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:36:09 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:36:09 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:36:10 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:37:15 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:37:15 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:37:16 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:39:48 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:39:48 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:39:49 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:40:14 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:40:14 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:40:15 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:40:28 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:40:28 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:40:28 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:40:44 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:40:44 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:40:45 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:41:06 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:41:06 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:41:07 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:41:17 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:41:17 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:41:18 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:41:38 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:41:38 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:41:38 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:41:49 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:41:49 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:41:49 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:42:00 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:42:00 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:42:00 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:42:12 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:42:12 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:42:13 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:42:24 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:42:24 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:42:24 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:43:46 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:43:46 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:43:47 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:44:42 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:44:42 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:44:42 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:46:08 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:46:08 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:46:09 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:46:34 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:46:34 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:46:35 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 12:49:00 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 12:49:00 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 12:49:01 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 13:21:15 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 13:21:15 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 13:21:16 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 13:23:23 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 13:23:23 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 13:23:23 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 13:24:16 PNNLP_mini_5-shot] (main.py 363): INFO Full config saved to ./new_metadataset_result\PNNLP_mini_5-shot\test\config.json
+[2025-05-29 13:24:16 PNNLP_mini_5-shot] (main.py 82): INFO Creating model:Episodic_Model_knn/PNNLP_mini_5-shot
+[2025-05-29 13:24:17 PNNLP_mini_5-shot] (main.py 98): INFO Start testing
+[2025-05-29 13:24:21 PNNLP_mini_5-shot] (main.py 323): INFO Test: [1/100]	Time 4.04 (4.04)	Loss 0.97 (0.97)	knn_Acc 85.33 (85.33)	proto_Acc 86.67 (86.67)	Acc@1 86.67 (86.67)	Acc@2 86.67 (86.67)	Acc@3 86.67 (86.67)	Acc@4 90.67 (90.67)	Acc@5 85.33 (85.33)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 13:25:32 PNNLP_mini_5-shot] (main.py 323): INFO Test: [11/100]	Time 8.26 (6.82)	Loss 0.75 (0.96)	knn_Acc 80.00 (78.79)	proto_Acc 90.67 (80.97)	Acc@1 90.67 (80.97)	Acc@2 90.67 (84.73)	Acc@3 92.00 (86.06)	Acc@4 90.67 (86.30)	Acc@5 90.67 (84.24)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 13:26:47 PNNLP_mini_5-shot] (main.py 323): INFO Test: [21/100]	Time 8.27 (7.14)	Loss 0.67 (0.99)	knn_Acc 85.33 (78.48)	proto_Acc 89.33 (80.44)	Acc@1 89.33 (80.44)	Acc@2 96.00 (84.83)	Acc@3 97.33 (85.78)	Acc@4 97.33 (85.78)	Acc@5 94.67 (84.00)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 13:28:00 PNNLP_mini_5-shot] (main.py 323): INFO Test: [31/100]	Time 7.13 (7.19)	Loss 0.94 (1.02)	knn_Acc 82.67 (77.38)	proto_Acc 88.00 (80.60)	Acc@1 88.00 (80.60)	Acc@2 93.33 (84.52)	Acc@3 94.67 (86.19)	Acc@4 94.67 (86.06)	Acc@5 94.67 (84.30)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 13:29:10 PNNLP_mini_5-shot] (main.py 323): INFO Test: [41/100]	Time 8.64 (7.15)	Loss 1.21 (1.03)	knn_Acc 76.00 (77.11)	proto_Acc 69.33 (80.94)	Acc@1 69.33 (80.94)	Acc@2 72.00 (83.87)	Acc@3 81.33 (85.53)	Acc@4 84.00 (85.40)	Acc@5 81.33 (84.23)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 13:30:31 PNNLP_mini_5-shot] (main.py 323): INFO Test: [51/100]	Time 8.42 (7.34)	Loss 0.72 (0.99)	knn_Acc 88.00 (78.22)	proto_Acc 88.00 (81.96)	Acc@1 88.00 (81.96)	Acc@2 89.33 (84.78)	Acc@3 93.33 (86.46)	Acc@4 92.00 (86.27)	Acc@5 92.00 (85.18)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 13:31:53 PNNLP_mini_5-shot] (main.py 323): INFO Test: [61/100]	Time 8.17 (7.47)	Loss 1.15 (1.00)	knn_Acc 70.67 (77.99)	proto_Acc 78.67 (81.90)	Acc@1 78.67 (81.90)	Acc@2 76.00 (84.44)	Acc@3 78.67 (86.05)	Acc@4 77.33 (85.84)	Acc@5 80.00 (84.92)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 13:33:17 PNNLP_mini_5-shot] (main.py 323): INFO Test: [71/100]	Time 7.71 (7.60)	Loss 1.16 (1.00)	knn_Acc 76.00 (78.05)	proto_Acc 76.00 (81.88)	Acc@1 76.00 (81.88)	Acc@2 78.67 (84.71)	Acc@3 80.00 (86.33)	Acc@4 78.67 (86.10)	Acc@5 78.67 (85.07)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 13:34:27 PNNLP_mini_5-shot] (main.py 323): INFO Test: [81/100]	Time 7.38 (7.53)	Loss 0.72 (1.01)	knn_Acc 92.00 (77.83)	proto_Acc 93.33 (81.99)	Acc@1 93.33 (81.99)	Acc@2 98.67 (84.72)	Acc@3 98.67 (86.45)	Acc@4 98.67 (86.14)	Acc@5 100.00 (85.17)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 13:35:45 PNNLP_mini_5-shot] (main.py 323): INFO Test: [91/100]	Time 7.48 (7.56)	Loss 1.07 (1.01)	knn_Acc 76.00 (77.64)	proto_Acc 78.67 (81.88)	Acc@1 78.67 (81.88)	Acc@2 74.67 (84.42)	Acc@3 81.33 (86.27)	Acc@4 86.67 (86.02)	Acc@5 78.67 (85.07)	label_acc1_meter 0.00 (0.00)	
+[2025-05-29 13:36:54 PNNLP_mini_5-shot] (main.py 103): INFO Test Accuracy of miniImageNet: knn_acc:77.76%,proto_acc:81.73%,acc1:81.73%+-1.46,acc3:86.12%+-1.46,acc5:84.95%+-1.46
+[2025-05-29 13:36:54 PNNLP_mini_5-shot] (main.py 105): INFO stastic : 0.00%,0.00,0.00%,0.00,0.00%,0.00,7500.00
+[2025-05-29 13:36:54 PNNLP_mini_5-shot] (main.py 107): INFO stastic : 0.00,0.00,0.00
+[2025-05-29 13:36:54 PNNLP_mini_5-shot] (main.py 109): INFO stastic_balance : 0.00,0.00,0.00
